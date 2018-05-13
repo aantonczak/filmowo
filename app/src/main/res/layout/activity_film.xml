@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.aga.filmowo.film">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="tu beda sie wyswietlac szczegoly dotyczace filmu w ktory kliknelismy(obrazek, opis, rok, ocena, komentarze, moze obsada(opcjoalnie) no i cos z tą weryfikacja biletow, ale to potem)"/>
+
+
+</android.support.constraint.ConstraintLayout>
