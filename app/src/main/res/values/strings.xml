@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">filmowo</string>
+    <string name="button_add">Dodaj film</string>
+    <string name="button_save">Zapisz film</string>
+    <string name="button_cancel">Zakoncz</string>
+    <string name="name">Nazwa:</string>
+    <string name="yearOfProduction">Rok produkcji:</string>
+    <string name="dateOfPremiere">Data premiery:</string>
+    <string name="description">Opis:</string>
 </resources>

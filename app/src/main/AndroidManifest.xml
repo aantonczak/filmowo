@@ -16,9 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".film" />
-        <activity android:name=".dodajFilm" />
-        <activity android:name=".listaFilmow"></activity>
+        <activity android:name=".MovieDetails" />
+        <activity android:name=".AddMovie" />
+        <activity android:name=".ListOfMovies"></activity>
     </application>
 
 </manifest>
